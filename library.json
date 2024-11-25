@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "id": 2,
+            "title": "Book 2",
+            "author": "Author 2",
+            "year": 2020,
+            "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+        },
+        {
+            "id": 3,
+            "title": "Book 1",
+            "author": "Author 1",
+            "year": 2023,
+            "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+        },
+        {
+            "id": 4,
+            "title": "Book 2",
+            "author": "Author 2",
+            "year": 2020,
+            "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+        }
+    ]
+}
